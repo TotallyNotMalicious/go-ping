@@ -10,7 +10,6 @@ import (
 	"os/signal"
 	"syscall"
 	"time"
-
 	"golang.org/x/net/icmp"
 	"golang.org/x/net/ipv4"
 )
